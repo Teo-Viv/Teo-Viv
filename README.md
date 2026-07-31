@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Mateo Vivas 👋
 
-<!--
-**Teo-Viv/Teo-Viv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Tecnologías de la Información y Comunicación (Escuela Politécnica Nacional). Interesado en desarrollo de software, IoT y gestión de proyectos TI.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 [Smart Building IoT](https://github.com/Teo-Viv/smart-building-iot)
+Sistema de monitoreo inteligente en tiempo real con sensores IoT, dashboard web y app móvil. Node.js, MQTT, MongoDB Atlas, React, Socket.io.
+
+### 🛒 [Gestión de Productos MVC](https://github.com/Teo-Viv/gestion-productos-mvc)
+Sistema de venta y compra de productos con arquitectura MVC y servicio WCF independiente. ASP.NET, C#.
+
+### 🎮 [Ahorcado Cliente-Servidor](https://github.com/Teo-Viv/ahorcado-cliente-servidor)
+Juego distribuido con comunicación en tiempo real vía sockets TCP/IP. C#.
+
+### 💰 [Gestión de Finanzas Personales](https://github.com/Teo-Viv/gestion-finanzas-personales)
+API REST + frontend MVC para control de finanzas personales. ASP.NET Web API, Entity Framework.
+
+## 🛠️ Tecnologías
+Python · Java · C# · JavaScript · React · Node.js · SQL · Git
+
+## 📫 Contacto
+mateovivas2001@gmail.com
